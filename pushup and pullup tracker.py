@@ -1,3 +1,4 @@
+#gym tracker - need to watch more videos on android apps and such
 import os
 from datetime import datetime
 
